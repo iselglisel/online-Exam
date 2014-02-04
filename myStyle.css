@@ -1,0 +1,61 @@
+body {
+	font-family: Century Gothic;
+	font-size: 20px;
+}
+.div{
+	display: block;
+}
+.container {
+	margin-right: 150px;
+	margin-top: 15px;
+}
+
+.navbar .brand {
+float: left;
+display: block;
+padding: 8px 20px 12px;
+margin-left: -60px;
+font-size: 40px;
+font-weight: 300;
+line-height: 0;
+color: #ffffff;
+font-family: Century Gothic;
+}
+
+.column{
+	float: right;
+	margin-right: -500px;
+}
+.navbar 
+.nav>li>a:hover {
+	background-color: transparent;
+	color: 0099FF;
+	
+}
+
+.navbar-inner{
+	border: none;
+	padding: 5px 0;
+}
+.nav-collapse {
+	margin-top: 60px;
+}
+
+.span4{
+	float: left;
+	margin-left: 150px;
+	margin-top: 10px;
+	width: 5px;
+	height: 10px;
+}
+.footer{
+	margin-top: 500px;
+	text-indent: 450px;
+	font-size: 13px;
+	
+}
+input {
+	font-size: 10px;
+	color: blue;
+	
+}

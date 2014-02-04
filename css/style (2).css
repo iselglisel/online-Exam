@@ -1,0 +1,24 @@
+body{
+	font-family: Century Gothic;
+	background-image: url(li.jpg);
+	background-size: 1300px;
+}
+a:hover{
+	color: gray;
+	text-decoration: none;
+}
+.container {
+	margin-right: -60px;
+	margin-top: 100px;
+	float: right;
+}
+.well{
+	background-color: transparent;
+	height: 50px;
+}
+.navbar-fixed-top {
+top: 0;
+}
+
+
+
